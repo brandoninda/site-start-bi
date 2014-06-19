@@ -1,0 +1,13 @@
+@import "compass/css3";
+@import "susy";
+
+$total-columns:12;
+$column-width:3em;
+$gutter-width:2em;
+$grid-padding:2em; 
+
+@import "partials/mixins";
+@import "partials/normalize";
+@import "partials/header";
+@import "partials/layout";
+@import "partials/footer";
